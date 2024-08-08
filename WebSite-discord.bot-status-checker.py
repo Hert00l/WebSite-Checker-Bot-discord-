@@ -9,7 +9,7 @@ TOKEN = 'TOKEN-DEL-TUO-BOT'
 CHANNEL_ID =  00000000000 # id canale del canale dove verra mandato embed status
 SERVER_URLS = [
     'http://fellarhost.site/', 
-    'http://www.example.it'
+    'https://hertool.pages.dev/#'
 ]  # i tuoi siti
 
 
