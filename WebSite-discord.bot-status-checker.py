@@ -4,7 +4,7 @@ import aiohttp
 import pytz  
 from datetime import datetime
 
-# ho settato tutto io non toccare nulla 
+
 TOKEN = 'TOKEN-DEL-TUO-BOT'
 CHANNEL_ID =  00000000000 # id canale del canale dove verra mandato embed status
 SERVER_URLS = [
